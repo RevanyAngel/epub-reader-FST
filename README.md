@@ -10,7 +10,6 @@ Aplikasi perpustakaan digital interaktif berbasis web untuk mengelola dan membac
 <p align="center">
   <img src="assets/preview_1.png" width="600">
   <img src="assets/preview_3.png" width="600">
-  <img src="assets/preview_2.png" width="300">
 </p>
 
 ---
