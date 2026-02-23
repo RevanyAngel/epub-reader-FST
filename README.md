@@ -51,9 +51,9 @@ Proyek ini menggunakan database `epub_reader` dengan tabel utama:
    ```bash
    git clone [https://github.com/RevanyAngel/epub-reader-FST.git](https://github.com/RevanyAngel/epub-reader-FST.git)
 3. **Setup Database:**
-* **Buka phpMyAdmin.
-* **Buat database baru dengan nama epub_reader.
-* **Import file epub_reader.sql ke database tersebut.
+* Buka phpMyAdmin.
+* Buat database baru dengan nama epub_reader.
+* Import file epub_reader.sql ke database tersebut.
 4. **Konfigurasi Koneksi:**  
   Sesuaikan host, user, dan password database pada file db.php (atau file koneksi terkait).
 5. **Jalankan:**
